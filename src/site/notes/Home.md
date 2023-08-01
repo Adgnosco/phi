@@ -3,8 +3,7 @@
 ---
   
 # Obsidian
-## Lingua
-English
-Castellano
-Català
-Hello World!
+## Lingual
+> English
+> Castellano
+> Català
