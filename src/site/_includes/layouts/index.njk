@@ -23,7 +23,9 @@
       {%include "components/searchContainer.njk"%}
     {% endif %}
     <main class="content cm-s-obsidian {{contentClasses}}">
-      <div class="site-header"><div class="clickable-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-menu"><line x1="4" y1="12" x2="20" y2="12"></line><line x1="4" y1="6" x2="20" y2="6"></line><line x1="4" y1="18" x2="20" y2="18"></line></svg></div><a class="site-header-logo" aria-hidden="true" style="" href="https://publish.obsidian.md/hub/00+-+Start+here"><img src="https://publish-01.obsidian.md/access/e25082da1bfe16d54e36618cd5bfee68/logo.svg"></a><a class="site-header-text" href="https://publish.obsidian.md/hub/00+-+Start+here">Obsidian Hub</a></div>
+      <div class="site-header">
+        <div class="clickable-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-menu"><line x1="4" y1="12" x2="20" y2="12"></line><line x1="4" y1="6" x2="20" y2="6"></line><line x1="4" y1="18" x2="20" y2="18"></line></svg></div><a class="site-header-logo" aria-hidden="true"</a></div>
       <header>
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle  }}</h1>
