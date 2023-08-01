@@ -3,7 +3,7 @@
 ---
   
 # Obsidian
-## Lingual
+## Lingua
 > English
 > Castellano
 > Català
