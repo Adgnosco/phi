@@ -22,3 +22,11 @@ body {
   --font-monospace: var(--font-monospace-theme), var(--font-monospace-default);
   --font-mermaid: var(--font-text);
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #fff;
+    --bg: #000;
+  }
+}
+
