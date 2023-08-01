@@ -186,7 +186,7 @@
     }
 </script>
 <div  x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
-    <label>Depth</label>
+    <label>Interactive Graph</label>
 	<div class="graph-title-container">
         <div id="graph-controls">
                 <div class="ctrl-right">
