@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/english/","created":"","updated":""}
 ---
 
-# English
+## Tools used
+Obsidian
+GitHub
+Replit
 ## Philosophy
-- ### Theoretical
+### Theoretical
 > Metaphysics
 > Gnoseology
 > Epistemology
@@ -12,14 +15,14 @@
 > Semiotics
 > Philology
 > Cultural anthropology
-- ### Practical
+### Practical
 > Aesthethic
 > Politics
 > Ethics
 ##  Theoretical Science
 ### Formal
-Mathematics
-Informatics
+> Mathematics
+> Informatics
 ### Factual
 #### Historial
 Humanity
@@ -41,9 +44,10 @@ Psycology
 #### Cultural
 Linguistics
 ## Pragmatical Science
-Environmental science
-Medicine
-Technology
-Technical drawing
-Engineering
-Programming
+> Environmental science
+> Medicine
+> Technology
+> Technical drawing
+> Engineering
+> Programming
+> 
