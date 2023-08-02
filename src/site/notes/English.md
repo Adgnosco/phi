@@ -8,7 +8,7 @@
 >Replit
 ## Philosophy
 ### Theoretical
-> Metaphysics
+> [[eng/1. Philosophy/1. Theoretical/1. Metaphysics\|1. Metaphysics]]
 > Gnoseology
 > Epistemology
 > Logical
