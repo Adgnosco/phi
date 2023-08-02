@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/english/","created":"","updated":""}
 ---
 
-## Tools used
+## Main Tools used
 Obsidian
 GitHub
 Replit
@@ -25,24 +25,24 @@ Replit
 > Informatics
 ### Factual
 #### Historial
-Humanity
+> Humanity
 #### Natural
-Physic
-Chemistry
-Astrology
-Geology
-Biology
+> Physic
+> Chemistry
+> Astrology
+> Geology
+> Biology
 #### Social
-Sociology
-Economy
-Physical anthopology
-Geography
-Politology
-Demography
-Pedagogy
-Psycology
+> Sociology
+> Economy
+> Physical anthopology
+> Geography
+> Politology
+> Demography
+> Pedagogy
+> Psycology
 #### Cultural
-Linguistics
+> Linguistics
 ## Pragmatical Science
 > Environmental science
 > Medicine
@@ -50,4 +50,3 @@ Linguistics
 > Technical drawing
 > Engineering
 > Programming
-> 
