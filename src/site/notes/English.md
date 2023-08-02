@@ -21,10 +21,10 @@ Replit
 > Politics
 > Ethics
 ##  Theoretical Science
-### Formal
+### **Formal**
 > Mathematics
 > Informatics
-### Factual
+### **Factual**
 #### Historial
 > Humanity
 #### Natural
