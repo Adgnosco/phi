@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/english/","created":"","updated":""}
 ---
 
-## Main Tools used
-Obsidian
+
+> [!Main Tools used]
+>Obsidian
 GitHub
 Replit
 ## Philosophy
