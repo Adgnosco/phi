@@ -8,7 +8,7 @@
 >Replit
 ## Filosofía
 ### Teórica
-> Metafísica
+> [[es/1. Filosofía/1. Teórica/1. Metafísica\|1. Metafísica]]
 > Gnoseología
 > Epistemología
 > Lógica
