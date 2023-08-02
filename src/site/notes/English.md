@@ -5,8 +5,9 @@
 
 > [!Main Tools used]
 >Obsidian
-GitHub
-Replit
+>GitHub
+>Replit
+
 ## Philosophy
 ### Theoretical
 > Metaphysics
