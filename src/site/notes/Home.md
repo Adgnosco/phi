@@ -5,5 +5,5 @@
 # Obsidian
 ## Lingua
 > [[English\|English]]
-> Castellano
+> [[Castellano\|Castellano]]
 > Català
